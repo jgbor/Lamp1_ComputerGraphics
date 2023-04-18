@@ -1,2 +1,5 @@
 # Lamp1_ComputerGraphics
-Second Graphics homework
+
+Second Graphics homework, cool lamp
+
+University, spring 2022
